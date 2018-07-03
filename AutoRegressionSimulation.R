@@ -1,3 +1,4 @@
+#AR(1) Simulation
 > set.seed(2018)
 > N=1000
 > phi=0.4
